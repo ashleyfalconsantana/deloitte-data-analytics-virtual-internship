@@ -29,7 +29,7 @@ In this task, I analyzed employee compensation data to assess gender pay equalit
 
 **Outcome:**
 
-Across the factories, it was found that executive and management roles show the highest pay discrimination, while technical, junior, and operational roles are generally the most fiar, showing a clear pattern of greater inequality at higher responsibility levels.
+Across the factories, it was found that executive and management roles show the highest pay discrimination, while technical, junior, and operational roles are generally the most fair, showing a clear pattern of greater inequality at higher responsibility levels.
 ![task 2 texcel/libre calc](equality.png)
 
 ## Certificate
